@@ -8,7 +8,7 @@ TARGET 	   := $(BIN)/main
 
 ALL 	   := clean install lint build test
 
-.PHONY: $(ALL) clean pretty run
+.PHONY: $(ALL) pretty run
 
 build:
 	$(GO) build -o $(TARGET) $(SRC)

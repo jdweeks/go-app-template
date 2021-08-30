@@ -1,6 +1,6 @@
 ## Project Layout
 
-This project follows the layout recommended by [golang-standards](https://github.com/golang-standards/project-layout/blob/master/README.md).
+This project follows the layout recommended by [golang-standards](https://github.com/golang-standards/project-layout).
 
 ### `/cmd`
 
